@@ -1,0 +1,104 @@
+Auks API request failed : krb5 cred : unable to read credential cache
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:39063'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:45711'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:42459'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:37149'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:43311'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:35833'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:44453'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:42917'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:33405'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:40107'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:35575'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:45993'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:45385'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:44441'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:42125'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:38281'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:44735'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:36421'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:40005'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:36969'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:34159'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:34201'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:33091'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:34349'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:43051'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:44513'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:43053'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:41163'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:35427'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:41765'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:39875'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.52:44659'
+distributed.dask_worker - INFO - End worker
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 492, in wait_for
+    fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/core.py", line 318, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 494, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 273, in _
+    await asyncio.wait_for(self.start(), timeout=timeout)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 481, in wait_for
+    return fut.result()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/nanny.py", line 330, in start
+    msg = await self.scheduler.register_nanny()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 871, in send_recv_from_rpc
+    comm = await self.pool.connect(self.addr)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 1059, in connect
+    raise exc
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 1043, in connect
+    comm = await fut
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/core.py", line 323, in connect
+    raise OSError(
+OSError: Timed out during handshake while connecting to tcp://188.185.68.194:39869 after 30 s
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 469, in <module>
+    go()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 465, in go
+    main()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 1128, in __call__
+    return self.main(*args, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 1053, in main
+    rv = self.invoke(ctx)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 1395, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 754, in invoke
+    return __callback(*args, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 451, in main
+    loop.run_sync(run)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/ioloop.py", line 530, in run_sync
+    return future_cell[0].result()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 445, in run
+    await asyncio.gather(*nannies)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 691, in _wrap_awaitable
+    return (yield from awaitable.__await__())
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 277, in _
+    raise TimeoutError(
+asyncio.exceptions.TimeoutError: Nanny failed to start in 60 seconds
