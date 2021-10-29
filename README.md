@@ -31,9 +31,43 @@ Moreover, when asking for less than 16 cores on $N$ nodes, we cannot guarantee t
 
 ## SET01
 
+The number of input files is increased to 1000. The number of partitions is fixed to 8192. Summary of the results:
 
+```
+python3 01_distrdf.py -c 32 -N 64
+cores=32 Nodes=64: Event Loop=110.8146300315857s
+Timer from Base.py 0:01:35.396663
+cores=32 Nodes=64: Event Loop=60.047252893447876s
+Timer from Base.py 0:00:49.557640
+cores=32 Nodes=64: Event Loop=60.26352095603943s
+Timer from Base.py 0:00:47.751371
 
+python3 01_distrdf.py -c 32 -N 32
+cores=32 Nodes=32: Event Loop=77.42034387588501s
+Timer from Base.py 0:00:57.876747
+cores=32 Nodes=32: Event Loop=63.256885051727295s
+Timer from Base.py 0:00:54.142023
+cores=32 Nodes=32: Event Loop=63.057847023010254s
+Timer from Base.py 0:00:53.574630
 
+python3 01_distrdf.py -c 32 -N 16
+cores=32 Nodes=16: Event Loop=116.56506299972534s
+Timer from Base.py 0:01:45.160036
+cores=32 Nodes=16: Event Loop=105.65866899490356s
+Timer from Base.py 0:01:38.366808
+cores=32 Nodes=16: Event Loop=106.29774904251099s
+Timer from Base.py 0:01:38.426309
+
+python3 01_distrdf.py -c 32 -N 8
+cores=32 Nodes=8: Event Loop=206.1550431251526s
+Timer from Base.py 0:03:14.995232
+cores=32 Nodes=8: Event Loop=197.26038789749146s
+Timer from Base.py 0:03:09.898729
+cores=32 Nodes=8: Event Loop=197.8616771697998s
+Timer from Base.py 0:03:09.858434
+```
+
+The results are yet to be discussed.
 
 
 
