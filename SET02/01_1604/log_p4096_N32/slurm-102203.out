@@ -1,0 +1,803 @@
+Auks API request failed : krb5 cred : unable to read credential cache
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:36703'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:41991'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:39445'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:36573'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:44125'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:41817'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:32987'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:39497'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:43245'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:40161'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:34919'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:35547'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:41331'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:34003'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:40271'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:41037'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:37663'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:41653'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:35023'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:34619'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:36995'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:40345'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:46055'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:46867'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:32835'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:43421'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:42959'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:39493'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:38683'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:37055'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:43055'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.30:45667'
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:39017
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:39017
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43173
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-1ktlgxgq
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:38199
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:38199
+distributed.worker - INFO -          dashboard at:           10.32.2.30:44661
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-b7egglmw
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:38119
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:38119
+distributed.worker - INFO -          dashboard at:           10.32.2.30:35347
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-_skab1w9
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:34209
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:34209
+distributed.worker - INFO -          dashboard at:           10.32.2.30:36615
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-pa0gji1s
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:44643
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:44643
+distributed.worker - INFO -          dashboard at:           10.32.2.30:33831
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-1e176c1s
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:36515
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:36515
+distributed.worker - INFO -          dashboard at:           10.32.2.30:40001
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-00_ey9gs
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:45745
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:45745
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43097
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-azloww9z
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:42823
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:42823
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43609
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-ssz8fywk
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:34297
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:34297
+distributed.worker - INFO -          dashboard at:           10.32.2.30:38219
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-56gnubi6
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:46463
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:46463
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43611
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-qi0fdli7
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:45417
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:45417
+distributed.worker - INFO -          dashboard at:           10.32.2.30:46009
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-usv2kwzl
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:36987
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:36987
+distributed.worker - INFO -          dashboard at:           10.32.2.30:37933
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-kwwq7e3v
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:34817
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:34817
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43451
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-mwm1zd1l
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:46601
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:46601
+distributed.worker - INFO -          dashboard at:           10.32.2.30:40231
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-4gipp_k2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:36445
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:36445
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43093
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-tj9zh0e8
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:38473
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:38473
+distributed.worker - INFO -          dashboard at:           10.32.2.30:34157
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-szv_jwcp
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:37173
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:37173
+distributed.worker - INFO -          dashboard at:           10.32.2.30:40685
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-s316k24q
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:42845
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:42845
+distributed.worker - INFO -          dashboard at:           10.32.2.30:37629
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-ddxl31db
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:41835
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:41835
+distributed.worker - INFO -          dashboard at:           10.32.2.30:45983
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-tn9s02c5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:44417
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:44417
+distributed.worker - INFO -          dashboard at:           10.32.2.30:46531
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-bbl5khco
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:33645
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:33645
+distributed.worker - INFO -          dashboard at:           10.32.2.30:36607
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-f4y3uj1t
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:40189
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:40189
+distributed.worker - INFO -          dashboard at:           10.32.2.30:37977
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-5oq8vlc3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:36015
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:36015
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43773
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-5f8y0ckn
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:44907
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:44907
+distributed.worker - INFO -          dashboard at:           10.32.2.30:41231
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-q4b6lwqc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:46299
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:46299
+distributed.worker - INFO -          dashboard at:           10.32.2.30:43795
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-tij2oywx
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:33075
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:33075
+distributed.worker - INFO -          dashboard at:           10.32.2.30:41233
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:39425
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:39425
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:           10.32.2.30:46051
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-my4tpbjj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-on753nsb
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:37545
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:37545
+distributed.worker - INFO -          dashboard at:           10.32.2.30:38797
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-_cicegdc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:35291
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:35291
+distributed.worker - INFO -          dashboard at:           10.32.2.30:40903
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-izpaw051
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:44667
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:44667
+distributed.worker - INFO -          dashboard at:           10.32.2.30:37281
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-lmo1_5u2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:38693
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:38693
+distributed.worker - INFO -          dashboard at:           10.32.2.30:44917
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-p5uw2e33
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.30:39287
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.30:39287
+distributed.worker - INFO -          dashboard at:           10.32.2.30:34865
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-v38zrfkw
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:45674
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.08s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.524754 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f741.root}: entry range [0,61540412], using slot 0 in thread 140034087704320.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.476851 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f807.root}: entry range [0,61540412], using slot 0 in thread 140061441578752.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.471540 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f554.root}: entry range [0,61540412], using slot 0 in thread 139757370509056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.609190 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f595.root}: entry range [0,61540412], using slot 0 in thread 140582451627776.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.613787 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f820.root}: entry range [0,61540412], using slot 0 in thread 140199771756288.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.527642 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f824.root}: entry range [0,61540412], using slot 0 in thread 140224343463680.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.561610 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f923.root,input_files/dimuon/f924.root}: entry range [0,123080825], using slot 0 in thread 140350905497344.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.590749 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f809.root}: entry range [0,61540412], using slot 0 in thread 139784391919360.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.505908 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f786.root}: entry range [0,61540412], using slot 0 in thread 139664034445056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.497688 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f321.root,input_files/dimuon/f322.root}: entry range [0,123080825], using slot 0 in thread 139838078572288.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.552954 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f834.root}: entry range [0,61540412], using slot 0 in thread 139941955405568.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.575918 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f872.root,input_files/dimuon/f873.root}: entry range [0,123080825], using slot 0 in thread 139874498270976.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.513037 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f720.root}: entry range [0,61540412], using slot 0 in thread 140224735553280.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.559606 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f854.root}: entry range [0,61540412], using slot 0 in thread 140378701797120.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.489151 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f807.root,input_files/dimuon/f808.root}: entry range [0,123080825], using slot 0 in thread 140201418045184.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.474102 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f215.root}: entry range [0,61540412], using slot 0 in thread 140601102485248.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.462261 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f82.root}: entry range [0,61540412], using slot 0 in thread 140604593100544.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.567003 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f982.root}: entry range [0,61540412], using slot 0 in thread 140440518723328.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.651289 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f659.root}: entry range [0,61540412], using slot 0 in thread 139942135777024.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.501811 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f40.root}: entry range [0,61540412], using slot 0 in thread 140277016889088.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.465174 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f800.root}: entry range [0,61540412], using slot 0 in thread 140183885899520.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.686919 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f476.root}: entry range [0,61540412], using slot 0 in thread 140192751814400.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.557477 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f971.root}: entry range [0,61540412], using slot 0 in thread 140048549590784.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.672741 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f797.root,input_files/dimuon/f798.root}: entry range [0,123080825], using slot 0 in thread 140349430781696.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.799655 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f116.root}: entry range [0,61540412], using slot 0 in thread 140429247235840.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.653768 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f133.root}: entry range [0,61540412], using slot 0 in thread 139706943768320.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.651694 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f422.root,input_files/dimuon/f423.root}: entry range [0,123080825], using slot 0 in thread 140710197516032.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.565294 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f862.root}: entry range [0,61540412], using slot 0 in thread 139717321557760.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.591950 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f504.root,input_files/dimuon/f505.root}: entry range [0,123080825], using slot 0 in thread 139870344668928.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.543615 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f115.root}: entry range [0,61540412], using slot 0 in thread 140574578317056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.747079 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f883.root}: entry range [0,61540412], using slot 0 in thread 139854052853504.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.799836 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f63.root}: entry range [0,61540412], using slot 0 in thread 139737819997952.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.13s CPU, 9.08751s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.79s CPU, 8.94582s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.12s CPU, 9.18419s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.86s CPU, 9.04592s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.02s CPU, 9.21836s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.3s CPU, 9.55123s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.66s CPU, 9.84237s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.76s CPU, 9.87926s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.85s CPU, 9.07534s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.08s CPU, 9.25767s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.904884 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f473.root}: entry range [0,61540412], using slot 0 in thread 140034087704320.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.63s CPU, 9.55066s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.04s CPU, 9.21709s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.999480 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f906.root}: entry range [0,61540412], using slot 0 in thread 140224343463680.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.914977 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f733.root}: entry range [0,61540412], using slot 0 in thread 140199771756288.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.905256 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f353.root,input_files/dimuon/f354.root}: entry range [0,123080825], using slot 0 in thread 140061441578752.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.961239 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f918.root}: entry range [0,61540412], using slot 0 in thread 139784391919360.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.915039 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f43.root}: entry range [0,61540412], using slot 0 in thread 140350905497344.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.45s CPU, 9.5877s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.98s CPU, 9.24895s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.63s CPU, 9.83923s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.998468 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f321.root}: entry range [0,61540412], using slot 0 in thread 140582451627776.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.993853 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f475.root}: entry range [0,61540412], using slot 0 in thread 139757370509056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.51s CPU, 9.60576s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.924081 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f894.root}: entry range [0,61540412], using slot 0 in thread 139838078572288.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.020724 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f254.root,input_files/dimuon/f255.root}: entry range [0,123080825], using slot 0 in thread 139941955405568.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.84s CPU, 9.0596s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.931571 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f604.root}: entry range [0,61540412], using slot 0 in thread 139664034445056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.957641 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f780.root}: entry range [0,61540412], using slot 0 in thread 139874498270976.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.79s CPU, 9.1818s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.18s CPU, 9.36668s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.07s CPU, 9.10983s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.98s CPU, 9.17692s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.85s CPU, 9.00811s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.923335 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f891.root}: entry range [0,61540412], using slot 0 in thread 140378701797120.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.94s CPU, 9.10312s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.1s CPU, 9.31913s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.81s CPU, 8.9793s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.005865 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f380.root,input_files/dimuon/f381.root}: entry range [0,123080825], using slot 0 in thread 140601102485248.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.913132 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f312.root}: entry range [0,61540412], using slot 0 in thread 140224735553280.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.86s CPU, 8.83877s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.922486 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f676.root,input_files/dimuon/f677.root}: entry range [0,123080825], using slot 0 in thread 140201418045184.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.98s CPU, 9.20611s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.78s CPU, 9.24032s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.04s CPU, 9.24103s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.916847 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f350.root}: entry range [0,61540412], using slot 0 in thread 140440518723328.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.917081 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f241.root}: entry range [0,61540412], using slot 0 in thread 140604593100544.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.920762 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f714.root}: entry range [0,61540412], using slot 0 in thread 140277016889088.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.909031 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f969.root}: entry range [0,61540412], using slot 0 in thread 139942135777024.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.57s CPU, 9.69764s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.902228 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f829.root,input_files/dimuon/f830.root}: entry range [0,123080825], using slot 0 in thread 140183885899520.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.921777 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f943.root}: entry range [0,61540412], using slot 0 in thread 140048549590784.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.33s CPU, 9.90404s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.921424 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f663.root,input_files/dimuon/f664.root}: entry range [0,123080825], using slot 0 in thread 140349430781696.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.964697 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f134.root}: entry range [0,61540412], using slot 0 in thread 140429247235840.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.920395 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f205.root}: entry range [0,61540412], using slot 0 in thread 140192751814400.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.922622 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f68.root,input_files/dimuon/f69.root}: entry range [0,123080825], using slot 0 in thread 139870344668928.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.958783 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f301.root}: entry range [0,61540412], using slot 0 in thread 140710197516032.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.67s CPU, 10.311s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.932552 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f897.root}: entry range [0,61540412], using slot 0 in thread 139706943768320.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.941974 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f79.root}: entry range [0,61540412], using slot 0 in thread 139717321557760.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.909588 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f956.root,input_files/dimuon/f957.root}: entry range [0,123080825], using slot 0 in thread 140574578317056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.936136 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f581.root}: entry range [0,61540412], using slot 0 in thread 139854052853504.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.282835 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f201.root,input_files/dimuon/f202.root}: entry range [0,123080825], using slot 0 in thread 139737819997952.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.84s CPU, 8.86126s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.12s CPU, 9.36232s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.86s CPU, 9.95667s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.97s CPU, 9.16638s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.13s CPU, 9.33895s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.29s CPU, 9.66822s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.93s CPU, 9.01453s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.11s CPU, 9.12614s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.42s CPU, 9.47733s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.922083 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f459.root}: entry range [0,61540412], using slot 0 in thread 140350905497344.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.09s CPU, 9.33267s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.12s CPU, 9.46108s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.56s CPU, 9.78666s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.956636 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f731.root}: entry range [0,61540412], using slot 0 in thread 140224343463680.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.924204 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f262.root}: entry range [0,61540412], using slot 0 in thread 139784391919360.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.918148 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f258.root}: entry range [0,61540412], using slot 0 in thread 140034087704320.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.910416 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f323.root}: entry range [0,61540412], using slot 0 in thread 140061441578752.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.928036 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f264.root}: entry range [0,61540412], using slot 0 in thread 140199771756288.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.928364 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f979.root}: entry range [0,61540412], using slot 0 in thread 139941955405568.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.04s CPU, 9.09367s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.25s CPU, 9.31583s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.931173 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f711.root}: entry range [0,61540412], using slot 0 in thread 139838078572288.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.936920 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f203.root}: entry range [0,61540412], using slot 0 in thread 140582451627776.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.11s CPU, 9.42068s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.99s CPU, 9.0243s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.931616 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f206.root}: entry range [0,61540412], using slot 0 in thread 139874498270976.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.63s CPU, 9.72937s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.925175 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f297.root}: entry range [0,61540412], using slot 0 in thread 139757370509056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.96s CPU, 9.26396s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.019027 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f52.root}: entry range [0,61540412], using slot 0 in thread 139664034445056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.19s CPU, 9.28675s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.987267 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f279.root}: entry range [0,61540412], using slot 0 in thread 140224735553280.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.932702 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f34.root}: entry range [0,61540412], using slot 0 in thread 140378701797120.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.18s CPU, 9.42155s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.28s CPU, 9.24169s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.86s CPU, 9.10608s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.11s CPU, 9.28563s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.942631 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f308.root}: entry range [0,61540412], using slot 0 in thread 140201418045184.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.88s CPU, 9.1742s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.49s CPU, 9.76751s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.79s CPU, 9.07656s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.915555 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f129.root,input_files/dimuon/f130.root}: entry range [0,123080825], using slot 0 in thread 140440518723328.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.919316 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f481.root}: entry range [0,61540412], using slot 0 in thread 140604593100544.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.931710 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f743.root}: entry range [0,61540412], using slot 0 in thread 140601102485248.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.41s CPU, 9.59646s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.11s CPU, 9.03682s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.922229 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f36.root}: entry range [0,61540412], using slot 0 in thread 140277016889088.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.917205 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f319.root}: entry range [0,61540412], using slot 0 in thread 139942135777024.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.04s CPU, 9.36152s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.915423 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f285.root,input_files/dimuon/f286.root}: entry range [0,123080825], using slot 0 in thread 140048549590784.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.96s CPU, 9.07434s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.917032 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f989.root}: entry range [0,61540412], using slot 0 in thread 140429247235840.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.956742 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f777.root}: entry range [0,61540412], using slot 0 in thread 140349430781696.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.59s CPU, 9.84208s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.928661 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f410.root}: entry range [0,61540412], using slot 0 in thread 140183885899520.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.934275 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f485.root}: entry range [0,61540412], using slot 0 in thread 140192751814400.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.972339 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f255.root}: entry range [0,61540412], using slot 0 in thread 140710197516032.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.920746 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f205.root}: entry range [0,61540412], using slot 0 in thread 140574578317056.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.975329 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f362.root,input_files/dimuon/f363.root}: entry range [0,123080825], using slot 0 in thread 139870344668928.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.924166 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f472.root,input_files/dimuon/f473.root}: entry range [0,123080825], using slot 0 in thread 139717321557760.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.038786 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f142.root,input_files/dimuon/f143.root}: entry range [0,123080825], using slot 0 in thread 139854052853504.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.935575 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {input_files/dimuon/f65.root}: entry range [0,61540412], using slot 0 in thread 139706943768320.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.06s CPU, 9.61122s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.945851 seconds.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {input_files/dimuon/f267.root,input_files/dimuon/f268.root}: entry range [0,123080825], using slot 0 in thread 139737819997952.
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.22s CPU, 9.23605s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.11s CPU, 9.39206s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.5s CPU, 9.54529s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.28s CPU, 9.27101s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.94s CPU, 9.06182s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.18s CPU, 9.28939s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.51s CPU, 9.73714s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.44s CPU, 9.48968s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.71s CPU, 9.06661s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.95s CPU, 10.0334s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.11s CPU, 9.09215s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.75s CPU, 9.75846s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.46s CPU, 9.55046s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.98s CPU, 9.10126s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.81s CPU, 8.8452s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.29s CPU, 9.97842s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.27s CPU, 9.43306s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.72s CPU, 9.93718s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.92s CPU, 9.03267s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.74s CPU, 9.89433s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.18s CPU, 9.47195s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.24s CPU, 9.10053s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.19s CPU, 9.21745s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.86s CPU, 9.2038s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.14s CPU, 9.32782s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.44s CPU, 9.58079s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.08s CPU, 9.075s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.51s CPU, 9.83048s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (8.8s CPU, 9.14262s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.54s CPU, 9.58504s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.42s CPU, 9.86551s elapsed).
+Info in <[ROOT.RDF] Info /hpcscratch/user/ikabadzh/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (9.61s CPU, 9.60447s elapsed).
+slurmstepd: error: *** JOB 102203 ON hpc-photon046 CANCELLED AT 2021-11-01T16:13:04 ***

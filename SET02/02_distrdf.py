@@ -109,8 +109,8 @@ if __name__ == '__main__':
     df = RDataFrame("Events", filelist, npartitions=(args.pts), daskclient=client)
     
     for i in range(3):
-      #with performance_report(filename="dask-report_{}.html".format(i)):
-      with get_task_stream(plot='save', filename='task-stream.html') as ts:  
+      with performance_report(filename="dask-report_{}.html".format(i)):
+      #with get_task_stream(plot='save', filename='task-stream.html') as ts:  
         dimuonSpectrum(df)
       ts.figure
 

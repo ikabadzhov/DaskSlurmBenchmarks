@@ -1,0 +1,921 @@
+Auks API request failed : krb5 cred : unable to read credential cache
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:36893'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:33937'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:40081'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:33017'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:45313'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:33793'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:33133'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:33843'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:38849'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:41319'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:45829'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:38961'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:46215'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:43501'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:45281'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:41403'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:46311'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:41597'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:34561'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:33543'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:34263'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:35891'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:32803'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:32965'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:42613'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:45503'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:34063'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:43699'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:33339'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:46177'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:43037'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.68:41591'
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-r6991mc_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-g10nda68', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-fi7e5kw5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-yqk5itwy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-spuej_08', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-8o6ru9bd', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-6y8t4w2x', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-muuoysy7', purging
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:34153
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:34153
+distributed.worker - INFO -          dashboard at:           10.32.2.68:45601
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-dt8aki7j
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:37359
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:37359
+distributed.worker - INFO -          dashboard at:           10.32.2.68:42235
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-p2g1xw51
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:42117
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:42117
+distributed.worker - INFO -          dashboard at:           10.32.2.68:38187
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-hd0l2pv7
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:39023
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:39023
+distributed.worker - INFO -          dashboard at:           10.32.2.68:45611
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-4p21ba7h
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:34845
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:34845
+distributed.worker - INFO -          dashboard at:           10.32.2.68:45697
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-mdexevm_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:39329
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:39329
+distributed.worker - INFO -          dashboard at:           10.32.2.68:41547
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-hveem82v
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:38061
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:38061
+distributed.worker - INFO -          dashboard at:           10.32.2.68:34295
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:46825
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:46825
+distributed.worker - INFO -          dashboard at:           10.32.2.68:34379
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-epxujcfc
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-ix3zq4j3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:42485
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:42485
+distributed.worker - INFO -          dashboard at:           10.32.2.68:40625
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-b8rnzk0r
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:41287
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:41287
+distributed.worker - INFO -          dashboard at:           10.32.2.68:37373
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:33187
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:33187
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:           10.32.2.68:42517
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-dn6zh7un
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-hhacsl2a
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:37011
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:37011
+distributed.worker - INFO -          dashboard at:           10.32.2.68:37195
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-ssq71e0s
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:45683
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:45683
+distributed.worker - INFO -          dashboard at:           10.32.2.68:38721
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-8if1dacu
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:35559
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:35559
+distributed.worker - INFO -          dashboard at:           10.32.2.68:41931
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:46139
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:46139
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -          dashboard at:           10.32.2.68:38479
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-76rpin4a
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-7e8305em
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:37173
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:37173
+distributed.worker - INFO -          dashboard at:           10.32.2.68:46157
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-m_1i0_p3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:43405
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:43405
+distributed.worker - INFO -          dashboard at:           10.32.2.68:35393
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-ekeddm9_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:34875
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:34875
+distributed.worker - INFO -          dashboard at:           10.32.2.68:42093
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-iqta0nk_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:40707
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:40707
+distributed.worker - INFO -          dashboard at:           10.32.2.68:41785
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-112iidak
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:44867
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:44867
+distributed.worker - INFO -          dashboard at:           10.32.2.68:40817
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-f9oqvovw
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:43499
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:43499
+distributed.worker - INFO -          dashboard at:           10.32.2.68:45417
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-jegrcltt
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:34327
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:34327
+distributed.worker - INFO -          dashboard at:           10.32.2.68:33851
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-hpc_q48e
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:33359
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:33359
+distributed.worker - INFO -          dashboard at:           10.32.2.68:46599
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-bmxjxk6_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:44143
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:44143
+distributed.worker - INFO -          dashboard at:           10.32.2.68:42919
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-1o039yvv
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:39873
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:39873
+distributed.worker - INFO -          dashboard at:           10.32.2.68:39247
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-ihzgls__
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:46517
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:46517
+distributed.worker - INFO -          dashboard at:           10.32.2.68:40255
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-oyywag5j
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:45267
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:45267
+distributed.worker - INFO -          dashboard at:           10.32.2.68:41693
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-lpj2t0to
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:44305
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:44305
+distributed.worker - INFO -          dashboard at:           10.32.2.68:37569
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-r8rz33aa
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:33011
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:33011
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:38001
+distributed.worker - INFO -          dashboard at:           10.32.2.68:43495
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-6vkj6e7d
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:38001
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:           10.32.2.68:36731
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-o994dcyh
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:39097
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:39097
+distributed.worker - INFO -          dashboard at:           10.32.2.68:34433
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-5256axvh
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.68:44209
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.68:44209
+distributed.worker - INFO -          dashboard at:           10.32.2.68:37481
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-lbu9tc85
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to: tcp://188.185.68.194:46122
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43194 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43198 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43196 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43200 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43202 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43206 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43208 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43204 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43214 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43212 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 198, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 128, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43210 remote=tcp://188.185.68.194:46122>: Stream is closed
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/iostream.py", line 867, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/iostream.py", line 1140, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 126, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43188 remote=tcp://188.185.68.194:46122>: ConnectionResetError: [Errno 104] Connection reset by peer
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/iostream.py", line 867, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/iostream.py", line 1140, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 126, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43192 remote=tcp://188.185.68.194:46122>: ConnectionResetError: [Errno 104] Connection reset by peer
+distributed.worker - WARNING - Heartbeat to scheduler failed
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/iostream.py", line 867, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/iostream.py", line 1140, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/worker.py", line 1001, in heartbeat
+    response = await retry_operation(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 385, in retry_operation
+    return await retry(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/utils_comm.py", line 370, in retry
+    return await coro()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 874, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 651, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 214, in read
+    convert_stream_closed_error(self, e)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/comm/tcp.py", line 126, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://10.32.2.68:43190 remote=tcp://188.185.68.194:46122>: ConnectionResetError: [Errno 104] Connection reset by peer
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:44867
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:41591'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:43499
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:34327
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:45503'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:43501'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:39873
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:46517
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:34263'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:35891'
+distributed.worker - INFO - Waiting to connect to: tcp://188.185.68.194:46122
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:39023
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:43699'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:39329
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:46825
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:38061
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:42485
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:37011
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:45683
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:46139
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:35559
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:45829'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:41319'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:43037'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:33937'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:33017'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:38849'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:33843'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:33133'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:41287
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:33187
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:38961'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:33793'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:34845
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:45313'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:42613'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:46177'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:32965'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:44209
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:33339'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:43405
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:39097
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:46311'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:34063'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:34875
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:38001
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:32803'
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:41597'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:33011
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:41403'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:37173
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:33543'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:44305
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:34561'
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:33359
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:44143
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:45281'
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:45267
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:40707
+distributed.worker - INFO - Closed worker has not yet started: Status.undefined
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:34153
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:37359
+distributed.nanny - INFO - Worker closed
+distributed.worker - INFO - Stopping worker at tcp://10.32.2.68:42117
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:46215'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:40081'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.32.2.68:36893'
+distributed.nanny - WARNING - Worker process still alive after 0 seconds, killing
+distributed.dask_worker - INFO - End worker
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/nanny.py", line 335, in start
+    response = await self.instantiate()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/nanny.py", line 404, in instantiate
+    result = await asyncio.wait_for(
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 468, in wait_for
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 492, in wait_for
+    fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 273, in _
+    await asyncio.wait_for(self.start(), timeout=timeout)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 494, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 469, in <module>
+    go()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 465, in go
+    main()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 1128, in __call__
+    return self.main(*args, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 1053, in main
+    rv = self.invoke(ctx)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 1395, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/click/core.py", line 754, in invoke
+    return __callback(*args, **kwargs)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 451, in main
+    loop.run_sync(run)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/tornado/ioloop.py", line 530, in run_sync
+    return future_cell[0].result()
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/cli/dask_worker.py", line 445, in run
+    await asyncio.gather(*nannies)
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/asyncio/tasks.py", line 691, in _wrap_awaitable
+    return (yield from awaitable.__await__())
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/site-packages/distributed/core.py", line 277, in _
+    raise TimeoutError(
+asyncio.exceptions.TimeoutError: Nanny failed to start in 60 seconds
+distributed.process - INFO - reaping stray process <SpawnProcess name='Dask Worker process (from Nanny)' pid=318376 parent=318286 started daemon>
+Exception in thread AsyncProcess Dask Worker process (from Nanny) watch process join:
+Traceback (most recent call last):
+  File "/hpcscratch/user/ikabadzh/mambaforge/envs/myenv/lib/python3.9/threading.py", line 973, in _bootstrap_inner

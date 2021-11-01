@@ -15,9 +15,9 @@ mkdir "${dirn}"
 
 for Nodes in 64 32
 do
-  for p in 2048 4096 8192
+  for p in 4096 8192
   do
-    CMD="python3 01_distrdf.py -c 32 -N ${Nodes} -f 1000 -p ${p}"
+    CMD="python3 02_distrdf.py -c 32 -N ${Nodes} -f 1000 -p ${p}"
     printf "\n\n${CMD}\n" >> ~/distrdf_timestamps.out
     eval "$CMD"
     mkdir "${dirn}/log_p${p}_N${Nodes}"
