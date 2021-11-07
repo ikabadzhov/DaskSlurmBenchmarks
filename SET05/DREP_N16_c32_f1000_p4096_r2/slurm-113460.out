@@ -1,0 +1,421 @@
+Auks API request failed : krb5 cred : unable to read credential cache
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:41531'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:45219'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:36777'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:42737'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:37837'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:36189'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:39815'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:39479'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:42245'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:34427'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:33469'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:37469'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:35347'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:45723'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:35051'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:41485'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:39505'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:33855'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:36479'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:36297'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:40973'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:40839'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:33331'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:39435'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:35539'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:46099'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:36523'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:34825'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:35661'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:45035'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:43781'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.32.2.35:41765'
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-7pgjqrgy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-sjw8xdlq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/tmp/ikabadzh/dask-worker-space/worker-hlmy66cz', purging
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:34773
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:34773
+distributed.worker - INFO -          dashboard at:           10.32.2.35:40011
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-ucu4fh7u
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:40921
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:40921
+distributed.worker - INFO -          dashboard at:           10.32.2.35:33991
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-x38qxutf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:43775
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:43775
+distributed.worker - INFO -          dashboard at:           10.32.2.35:38905
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-f83j8gyf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:35937
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:35937
+distributed.worker - INFO -          dashboard at:           10.32.2.35:40361
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-dkom8wg1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:40879
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:40879
+distributed.worker - INFO -          dashboard at:           10.32.2.35:35301
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-m9kqkry5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:37207
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:37207
+distributed.worker - INFO -          dashboard at:           10.32.2.35:41213
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-bzhnw3_2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:44039
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:44039
+distributed.worker - INFO -          dashboard at:           10.32.2.35:45389
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-d9_qm5ff
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:45955
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:45955
+distributed.worker - INFO -          dashboard at:           10.32.2.35:39691
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-74um236d
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:37137
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:37137
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO -          dashboard at:           10.32.2.35:45051
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-jq7qbdgw
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:39647
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:39647
+distributed.worker - INFO -          dashboard at:           10.32.2.35:39653
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-47nh_8vj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:41935
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:41935
+distributed.worker - INFO -          dashboard at:           10.32.2.35:46641
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-2bohxue7
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:36487
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:36487
+distributed.worker - INFO -          dashboard at:           10.32.2.35:37547
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-me6aj56q
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:39103
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:39103
+distributed.worker - INFO -          dashboard at:           10.32.2.35:39645
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-4gx9r1rz
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:40933
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:40933
+distributed.worker - INFO -          dashboard at:           10.32.2.35:43981
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-wopfb65h
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:35327
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:35327
+distributed.worker - INFO -          dashboard at:           10.32.2.35:32841
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:46297
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-2qz3j7ln
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:46297
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:           10.32.2.35:33849
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-_ivx8qbg
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:43219
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:43219
+distributed.worker - INFO -          dashboard at:           10.32.2.35:40337
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-lrfi2m3p
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:33741
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:33741
+distributed.worker - INFO -          dashboard at:           10.32.2.35:34119
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-uecj85xr
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:39161
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:39161
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:           10.32.2.35:33319
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-um4joaaj
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:38597
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:38597
+distributed.worker - INFO -          dashboard at:           10.32.2.35:43501
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:34007
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:34007
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:           10.32.2.35:43693
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-toh3_aku
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-3785v8os
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:44041
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:44041
+distributed.worker - INFO -          dashboard at:           10.32.2.35:40769
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-0qxh5k3j
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:43621
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:43621
+distributed.worker - INFO -          dashboard at:           10.32.2.35:45879
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-zmv99ron
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:37097
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:37097
+distributed.worker - INFO -          dashboard at:           10.32.2.35:45865
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-l97s4r5l
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:35531
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:35531
+distributed.worker - INFO -          dashboard at:           10.32.2.35:45971
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-zpwzctcc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:32819
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:32819
+distributed.worker - INFO -          dashboard at:           10.32.2.35:35781
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-z_d3rsch
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:40393
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:40393
+distributed.worker - INFO -          dashboard at:           10.32.2.35:36361
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-z8cae0wd
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:42259
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:42259
+distributed.worker - INFO -          dashboard at:           10.32.2.35:41039
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-nxqjk930
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:38853
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:38853
+distributed.worker - INFO -          dashboard at:           10.32.2.35:38391
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-zz3izqof
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:34035
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:34035
+distributed.worker - INFO -          dashboard at:           10.32.2.35:42409
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-x_6_vbzh
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:36447
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:36447
+distributed.worker - INFO -          dashboard at:           10.32.2.35:38829
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-p3u2dod8
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.32.2.35:41385
+distributed.worker - INFO -          Listening to:     tcp://10.32.2.35:41385
+distributed.worker - INFO -          dashboard at:           10.32.2.35:43255
+distributed.worker - INFO - Waiting to connect to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  14.90 GiB
+distributed.worker - INFO -       Local Directory: /tmp/ikabadzh/dask-worker-space/worker-9tm6df4i
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:  tcp://137.138.63.42:35149
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 113460 ON hpc-photon004 CANCELLED AT 2021-11-05T13:44:28 ***
